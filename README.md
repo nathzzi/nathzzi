@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm literallyawildhog or wildhog👋
 
-<!--
-**nathzzi/nathzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about coding, open-source, and reverse engineering.
 
-Here are some ideas to get you started:
+- 🔭 Current Project: Myelin, Alysse
+- 🌱 Learning: C++, Reverse Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 Languages
+
+[![Languages](https://skillicons.dev/icons?i=java,cpp,python&theme=dark)](https://skillicons.dev)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=literallyawildhog&layout=compact&theme=radical&hide=html,css)
+
+

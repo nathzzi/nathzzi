@@ -51,7 +51,7 @@ I'm **Nathan**, a 15-year-old self-taught programmer currently diving deep into 
 
 ## 📫 Contact & Links
 
-[![Discord](https://img.shields.io/badge/Discord-nathzzi%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/958005172926304346)  
+[![Discord](https://img.shields.io/badge/Discord-_nath.zi%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/958005172926304346)  
 
 ---
 

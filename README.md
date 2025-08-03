@@ -19,12 +19,6 @@ I'm **Nathan**, a 15-year-old self-taught programmer currently diving deep into 
 
 ---
 
-## 🚧 Projects
-
-### 🔸 Rift
-### 🔸 Alysse
----
-
 ## 📚 Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)

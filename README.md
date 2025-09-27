@@ -1,7 +1,5 @@
 # Hi there, I'm Nathan 👋
 
----
-
 I am interested in **Cybersecurity** and **Game Hacking**
 
 > *“Fake it 'till you make it.”*
